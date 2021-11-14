@@ -1,0 +1,14 @@
+body{
+    text-align: center;
+    background-color: rgb(151, 151, 233);
+}
+
+button{
+    background-color: orange;
+    color:black;
+    border: solid 1px black;
+}
+
+a{
+    visibility: hidden;
+}
